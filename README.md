@@ -53,7 +53,7 @@ Follow these steps to set up and run the project locally.
 - **`src/`**: Contains the application source code.
   - **`App.tsx`**: Main application component.
   - **`assets/`**: Stores resources such as images.
-- **`NativeCode/`**: Contains native code related to location permission module and get location.
+- **`nativecode/`**: Contains native code related to location permission module and get location.
 
 ---
 
